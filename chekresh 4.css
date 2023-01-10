@@ -1,0 +1,131 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+
+}
+.a1{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 501px;
+    padding: 21px;
+
+}
+.a2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 81%;
+    margin: auto;
+    
+}
+.a3 >img{
+border:3px solid grey;
+height: 501px;
+width:351px;
+
+}
+.a3{
+    padding: 16px;
+}
+.a4{
+    margin-top:31px;
+   
+}
+
+.a4 >h4{
+    color: grey;
+    padding: 11px;
+}
+.a4 >img{
+    height: 31px;
+    width:121px;
+    padding: 17px;
+}
+.a5{
+    display: flex;
+    flex-direction: row;
+  
+}
+.a5 >h1{
+padding: 6px;
+font-size: 20px;
+}
+.a5 >del{
+    padding: 6px;
+    margin-top: 4px;
+    }
+    .a5 >h2{
+        padding: 6px;
+        color: green;
+font-size: 19px;
+        }
+            .a6,.a7 {
+                display: flex;
+                flex-direction: row;
+                font-size: 19px;
+                
+            }
+
+            .a6 >p{
+                padding: 4px;
+            
+            }
+            
+            .a7 >p{
+                padding: 4px;
+            }
+            
+            .a8{
+                display: flex;
+                flex-direction: row;
+            }
+            .a8 >p{
+                font-size: 18px;
+            }
+            .a9 >form{
+                display: flex;
+                flex-direction: row;
+            width: 252px;
+                justify-content: space-between;
+                margin-left:10px;
+            }
+            .a9 >input{
+                padding: 6px;
+            }
+
+.a13 >input{
+    padding: 3px 8px;
+    font-size: 13px;
+    font-weight: 500;
+    color: black ;
+    border: 2px solid grey ;
+    border-radius: 3px;
+   margin-left: 2vh;
+   background-color: white;
+}
+.a13 >input:hover{
+    background-color: rgb(14, 43, 55);
+    color: white;
+    border-color: rgb(14, 43, 55);
+}
+.a10{
+    display: flex;
+    flex-direction: row;
+}
+.a4 >.a5,.a6,.a7,.a8,.a11,.a12 {
+    padding: 5px;
+  
+}
+.a4 >img{
+    margin-left:-17px;
+}
+.a5,.a6,.a7,.a8,.a11,.a12 {
+    margin-left:18px;
+}
+.a4 >h1{
+    margin-left:16px;
+    padding: 3px;
+}
+.a4 >h4{
+    margin-left:16px;
+}
